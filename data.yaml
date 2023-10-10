@@ -1,0 +1,4 @@
+# data.yaml
+container:
+  image: jenkinsci/jenkins
+  tag: 2.275
